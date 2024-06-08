@@ -83,7 +83,7 @@ A high-level summary of the EDA performed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GAN-financial-transactions.git
+   git clone https://github.com/lawrencemenike/GAN-financial-transactions.git
    cd GAN-financial-transactions
 
 ## Usage
